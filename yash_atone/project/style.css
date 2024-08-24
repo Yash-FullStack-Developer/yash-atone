@@ -1,0 +1,21 @@
+
+body{
+    background-color: blue;
+}
+table {
+margin: 30px;
+height: 500px;
+width: 800px;
+border: 5px solid black;
+}
+tr td{
+    border: 5px solid black;
+}
+.weeks{
+    background-color: aqua;
+    font-size: 30px;
+}
+caption{
+    font-size: 40px;
+    color: chartreuse;
+}
